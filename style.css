@@ -1,0 +1,31 @@
+header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkgrey;
+    color: #fff;
+    text-align: center;
+    padding: 2em 0;
+    font-size: xx-large;
+}
+
+span {
+    color: #e42121;
+
+}
+
+.container {
+    justify-content: center;
+    text-align: center;
+    padding: 4em 0;
+    
+}
+
+.container h1 {
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+}
+
+footer {
+    text-align: center;
+}
